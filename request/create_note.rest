@@ -1,0 +1,15 @@
+POST http://localhost:3001/api/notes 
+Content-Type: application/json
+
+{
+    "content": "Esto es uno nuevo de Devsavant"
+}
+
+###
+
+POST http://localhost:3001/api/notes 
+Content-Type: application/json
+
+{
+    
+}
